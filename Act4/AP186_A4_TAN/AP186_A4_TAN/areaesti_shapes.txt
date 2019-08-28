@@ -1,0 +1,54 @@
+CIRCLE
+theo: 1963.50
+
+roberts: 1928
+prewitt: 1925
+sobel: 1925
+log: 1857
+zerocross: 1857
+canny: 1909
+approxcanny: 1925
+
+SQUARE
+theo: 2500
+
+roberts: 2500
+prewitt: 2.4955e3
+sobel: 2497
+log: 2417
+zerocross: 2417
+canny: 2477
+approxcanny: 2497
+
+TRIANGLE
+theo: 1650
+
+r: 1678
+p: 1709
+s: 1.7075e3
+l: 1.6155e3
+z: 1.6155e3
+c: 1.6825e3
+ac: 1.6485e3
+
+BAHAY
+theo: 2200
+
+r:2219
+p:2.2365e3
+s:2236
+l:2.1425e3
+z:2.1425e3
+c:2.2015e3
+ac:2199
+
+RHOMBUS
+theo: 2000
+
+r:1.9985e3
+p:1.9985e3
+s:1.9975e3
+l:1.9255e3
+z:1.9255e3
+c:1999
+ac:1.9975e3
