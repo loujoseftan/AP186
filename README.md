@@ -6,4 +6,7 @@ Act3: Activity 3 - Image Types and Formats <p>
 Act4: Activity 4 - Measuring Area from Images <p>
 Act5: Activity 5 - Image Enhancement by Histogram Manipulation <p>
 Act6: Activity 6 - Enhancement of Color Images <p>
-Act7: Activity 7 - Image Segmentation
+Act7: Activity 7 - Image Segmentation <p>
+Act8: Activity 8 - Morphological Operations <p>
+Act9: Activity 9 - Playing Notes by Image Processing <p>
+Act10: Activity 10 - Blob Analysis <p>
