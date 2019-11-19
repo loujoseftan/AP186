@@ -10,3 +10,5 @@ Act7: Activity 7 - Image Segmentation <p>
 Act8: Activity 8 - Morphological Operations <p>
 Act9: Activity 9 - Playing Notes by Image Processing <p>
 Act10: Activity 10 - Blob Analysis <p>
+Act11: Activity 11 - Basic Video Processing <p>
+Act12: Activity 12 - Feature Extraction <p>
